@@ -13,6 +13,8 @@ public class RegisterTest extends BaseTest {
     //comentariu
     //al doilea comentariu
     //al treilea comentariu
+    // al patrulea comentariu
+    
 
 
     @Test //specifica faptul ca aceasta metoda e un test;
