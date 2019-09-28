@@ -11,6 +11,9 @@ import org.openqa.selenium.support.ui.Select;
 public class RegisterTest extends BaseTest {
 
     //comentariu
+    //al doilea comentariu
+    //al treilea comentariu
+
 
     @Test //specifica faptul ca aceasta metoda e un test;
     public void test(){
